@@ -2,9 +2,9 @@ define(function () {
     return [
     {
         "id": "AD-8353",
-        "name": "Remove ipayment from unity demoshoptypes",
+        "name": "Remove ipayment from Now DemoShop Type",
         "type": "Task",
-        "summary": "Remove ipayment from unity demoshoptypes",
+        "summary": "Remove ipayment from Now DemoShop Type",
         "priority": "Major",
         "integrated": "7.16.0",
         "platform": "ePages6"
@@ -24,7 +24,16 @@ define(function () {
         "type": "Bug",
         "summary": "The ESF tests for PayPal Express are broken and is not running in the epages pipeline right now",
         "priority": "Major",
-        "integrated": "7.16.0",
+        "integrated": null,
+        "platform": "ePages6"
+    },
+    {
+        "id": "AD-8336",
+        "name": "Add ESF Tests to our pipeline",
+        "type": "Task",
+        "summary": "As part of our ESF Epic we decided to create more transparency, before repairing test and rewriting them for epages Now.",
+        "priority": "Major",
+        "integrated": null,
         "platform": "ePages6"
     }
 ]

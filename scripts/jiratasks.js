@@ -21,6 +21,8 @@ define(function () {
         "platform": "ePages6",
         "relevance": "",
         "links": [
+            "<a href='http://easy.vm-intern.epages.com:9000/component_measures/metric/coverage/history?id=DE_EPAGES%3A%3AOrder' target='_blank'>Coverage</a>",
+            "<a href='https://barcelona.epages.systems/epages/DemoShop.admin/sec1cd97a9ebe/?ViewObjectID=21766&ViewAction=MBO-ViewGeneral&ChangeAction=ViewedOn&ChangeObjectID=20928&ListObjectID=21766' target='_blank'>MBO Orders</a>"
 
         ]
     },

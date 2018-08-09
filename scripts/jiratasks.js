@@ -27,19 +27,6 @@ define(function () {
         ]
     },
     {
-        "id": "AD-8504",
-        "name": "DHL: (re)activate ESF Test eP6",
-        "type": "Sub-task",
-        "summary": "",
-        "priority": "Major",
-        "integrated": null,
-        "platform": "ePages6",
-        "relevance": "",
-        "links": [
-
-        ]
-    },
-    {
         "id": "AD-8907",
         "name": "epagesj: create new \"epages-ui\" client",
         "type": "Task",
@@ -47,7 +34,7 @@ define(function () {
         "priority": "Blocker",
         "integrated": null,
         "platform": "ePages6",
-        "relevance": "",
+        "relevance": "minor",
         "links": [
 
         ]
@@ -62,7 +49,9 @@ define(function () {
         "platform": "ePages6",
         "relevance": "",
         "links": [
-
+            "<a href='http://easy.vm-intern.epages.com:9000/component_measures/metric/coverage/history?id=DE_EPAGES%3A%3AChronopost' target='_blank'>Coverage</a>",
+            "<a href='https://barcelona.epages.systems/epages/DemoShop.admin/secdb9174363d/?ViewAction=MBO-ViewShippingList&ObjectID=20928' target='_blank'>ePages6 MBO</a>",
+            "<a href='https://demounity.barcelona.epages.systems/epages/demounity.admin/sec8aba00ef9c/?ViewAction=UnityMBO-ViewShippingList&ObjectID=21353' target='_blank'>ePagesNow MBO</a>"
         ]
     }
 ]

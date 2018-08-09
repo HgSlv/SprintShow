@@ -8,10 +8,8 @@ define(function () {
         "priority": "Major",
         "integrated": null,
         "platform": "ePages6",
-        "relevance": "",
-        "links": [
-
-        ]
+        "relevance": "minor",
+        "links": []
     },
     {
         "id": "AD-8818",
@@ -35,9 +33,7 @@ define(function () {
         "integrated": null,
         "platform": "ePages6",
         "relevance": "minor",
-        "links": [
-
-        ]
+        "links": []
     },
     {
         "id": "AD-8889",
